@@ -1,0 +1,43 @@
+.h1 {
+text-align: center;
+padding: 50px;
+background-image: url('https://cur.glitter-graphics.net/pub/3680/3680225yq8hvuyqrn.gif');
+background-attachment: fixed;
+background-repeat: repeat;
+}
+
+.linkpunkte{
+border-style: solid;
+float: left;
+text-align: center;
+width: 33%;
+background-color: rgb(255,153,204);
+}
+
+
+.strong{
+color: black
+}
+
+.Inhalt{
+text-indent:30px;
+margin-left: 2px;
+margin-right: 2px;
+padding-top: 15px;
+border-style: solid;
+float: left;
+width: 52%;
+text-align: left;
+font-family: "Courier New";
+background-color: rgb(204,204,204);
+}
+
+.other{
+border-style: solid;
+float: left;
+text-align: center;
+width: 13%;
+background-color: rgb(255,153,204);
+}
+
+
